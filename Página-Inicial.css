@@ -6,6 +6,11 @@
    min-height: 668px;
  }
 
+ .bg-l{
+  background-color: #ff5b16;
+}
+
+
  .u-section-1 .u-layout-wrap-1 {
    margin-top: 70px;
    margin-bottom: 70px;
@@ -490,7 +495,7 @@
    }
 
    .fs {
-    font-size: 19px;
+    font-size: 18px;
 }
  }
 
@@ -1330,7 +1335,7 @@
    background-image: none;
    height: auto;
    margin-top: 71px;
-   margin-bottom: 0;
+   margin-bottom: 30px;
  }
 
  .u-section-7 .u-container-layout-4 {
