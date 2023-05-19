@@ -15677,6 +15677,7 @@ section.u-image:not(.u-hover-box),
 .u-sheet:not(.u-image):not(.u-video)>* {
   pointer-events: auto;
   pointer-events: initial;
+  
 }
 
 .u-stick-footer {
@@ -48749,6 +48750,7 @@ a:hover {
 .u-btn {
   background-color: #fc10e7;
   color: #ffffff;
+  
 }
 
 .u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header :not(.u-nav-item)>.u-btn:hover,
