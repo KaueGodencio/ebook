@@ -34301,7 +34301,7 @@ section.u-palette-2-base:before,
 .u-container-layout.u-container-layout.u-palette-2-base:before,
 .u-table-alt-palette-2-base tr:nth-child(even) {
   color: #ffffff;
-  background-color: #ff5b16;
+  background-color: #247Ba0;
 }
 
 .u-input.u-palette-2-base,
@@ -34805,7 +34805,7 @@ section.u-palette-3-base:before,
 .u-container-layout.u-container-layout.u-palette-3-base:before,
 .u-table-alt-palette-3-base tr:nth-child(even) {
   color: #111111;
-  background-color: #f1c50e;
+  background-color:#006494;
 }
 
 .u-input.u-palette-3-base,
@@ -48734,21 +48734,21 @@ ol {
 .u-gradient>.u-container-layout>a,
 .u-image:not(.u-shading)>.u-container-layout>a,
 a {
-  color: #fc10e7;
+  color: #fc10e;
 }
 
 .u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header :not(.u-nav-item)>a:hover,
 .u-gradient>.u-container-layout>a:hover,
 .u-image:not(.u-shading)>.u-container-layout>a:hover,
 a:hover {
-  color: #ee03d9;
+  color: #008000 !;
 }
 
 .u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header :not(.u-nav-item)>.u-btn,
 .u-gradient>.u-container-layout>.u-btn,
 .u-image:not(.u-shading)>.u-container-layout>.u-btn,
 .u-btn {
-  background-color: #fc10e7;
+  background-color: #00a000;
   color: #ffffff;
   
 }
