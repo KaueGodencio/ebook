@@ -23,7 +23,24 @@
   background-color:#006494;
 }
 
+@keyframes flutuar {
+  0% {
+    transform: translate(0, 0);
+  }
+  40% {
+    transform: translate(0, 8px);
+  }
+  80% {
+    transform: translate(0, -4px);
+  }
+  100% {
+    transform: translate(0, 0);
+  }
+}
 
+.flutuar {
+  animation: flutuar 1.5s ease-in-out infinite;
+}
 
 
  .u-section-1 .u-layout-wrap-1 {
@@ -54,7 +71,7 @@
  }
 
  .fs{
-  font-size: 22px;
+  font-size: 16px;
  }
 
  .btn-central{
@@ -490,6 +507,7 @@
    .u-section-3 .u-text-2 {
      width: auto;
      margin-right: 0;
+     text-align: start;
    }
 
    .u-section-3 .u-text-3 {
@@ -509,9 +527,7 @@
      height: 325px;
    }
 
-   .fs {
-    font-size: 16px;
-}
+   
  }
 
  .u-section-4 {
@@ -536,9 +552,10 @@
  }
 
  .u-section-4 .u-image-1 {
-   height: 546px;
-   width: 710px;
-   margin: -174px -182px 0 auto;
+   
+   width: 550px;
+   margin: -174px -99px 0 auto;
+
  }
 
  .u-section-4 .u-layout-cell-2 {
@@ -669,6 +686,7 @@
 
    .u-section-4 .u-text-2 {
      width: auto;
+     text-align: start;
    }
 
    .u-section-4 .u-btn-1 {

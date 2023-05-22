@@ -33734,7 +33734,7 @@ section.u-palette-1-light-3:before,
 .u-container-layout.u-container-layout.u-palette-1-light-3:before,
 .u-table-alt-palette-1-light-3 tr:nth-child(even) {
   color: #111111;
-  background-color: #ffe7fd;
+  background-color: #ffff;
 }
 
 .u-input.u-palette-1-light-3,
@@ -48606,7 +48606,7 @@ p.u-small-text {
 p:not(.u-text-variant) {
   margin-top: 20px;
   margin-bottom: 20px;
-  font-size: 1.125rem;
+  
 }
 
 .u-btn {
