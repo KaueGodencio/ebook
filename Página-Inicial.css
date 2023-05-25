@@ -43,6 +43,14 @@
   animation: flutuar 1.5s ease-in-out infinite;
 } */
 
+.preco-ver{
+  
+    font-size: 150% !important;
+    font-weight: 900 !important;
+    color: #d4405b !important;
+
+}
+
 .txt-black{
   color:#3b3e3f;
 
@@ -357,24 +365,30 @@
 
  .u-section-3 {
   background: #f2f2f2;
+  height: 100%;
+
 }
 
- .u-section-3 .u-sheet-1 {
-   min-height: 692px;
- }
+.u-section-3-novo {
+  height: 100%;
+
+
+}
+
+ 
 
  .u-section-3 .u-layout-wrap-1 {
    margin-top: 60px;
    margin-bottom: 60px;
  }
 
- .u-section-3 .u-layout-cell-1 {
+  .u-layout-cell-1 {
    min-height: 574px;
  }
 
- .u-section-3 .u-container-layout-1 {
+ /* .u-section-3 .u-container-layout-1 {
    padding: 30px;
- }
+ } */
 
  .u-section-3 .u-text-1 {
    font-size: 3rem;
@@ -411,7 +425,7 @@
  }
 
  .u-section-3 .u-image-1 {
-   height: 544px;
+   height: 430px;
    margin-top: 30px;
    margin-bottom: 0;
  }
@@ -530,7 +544,7 @@
    }
 
    .u-section-3 .u-image-1 {
-     height: 325px;
+     height: 250px;
    }
 
    
@@ -559,7 +573,7 @@
  .u-section-4 .u-image-1 {
    
    width: 550px;
-   margin: -174px -99px 0 auto;
+   margin: 185px -99px 0 auto;
 
  }
 

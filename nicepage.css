@@ -34299,7 +34299,7 @@ section.u-palette-2-base:before,
 .u-container-layout.u-container-layout.u-palette-2-base:before,
 .u-table-alt-palette-2-base tr:nth-child(even) {
   color: #ffffff;
-  background-color: #247Ba0;
+  background-color: #006494;
 }
 
 .u-input.u-palette-2-base,
@@ -34803,7 +34803,7 @@ section.u-palette-3-base:before,
 .u-container-layout.u-container-layout.u-palette-3-base:before,
 .u-table-alt-palette-3-base tr:nth-child(even) {
   color: #111111;
-  background-image: linear-gradient(#247Ba0, #006494 ) !important;
+  background: #f2f2f2;;
   
 }
 
