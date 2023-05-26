@@ -511,7 +511,7 @@
    }
 
    .u-section-3 .u-image-1 {
-     height: 516px;
+     height: 405px;
    }
  }
 
@@ -552,7 +552,7 @@
 
  .u-section-4 {
    background-image: none;
-   padding-top: 30px;
+   
  }
 
  .u-section-4 .u-sheet-1 {
@@ -573,7 +573,7 @@
  .u-section-4 .u-image-1 {
    
    width: 550px;
-   margin: 185px -99px 0 auto;
+   
 
  }
 
@@ -703,7 +703,7 @@
 
    .u-section-4 .u-text-2 {
      width: auto;
-     text-align: center;
+     text-align: start;
    }
 
    .u-section-4 .u-btn-1 {
