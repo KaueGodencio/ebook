@@ -1,29 +1,29 @@
  .u-section-1 {
    /* background-image: linear-gradient(#fc10e7, #ff5b16); */
    background-image: linear-gradient(#006494, #247Ba0);
-   
+
  }
 
 
- 
+
 
  .u-section-1 .u-sheet-1 {
    min-height: 668px;
  }
 
- .bg-l{
-  background-image: linear-gradient(#006494, #247Ba0);
-}
+ .bg-l {
+   background-image: linear-gradient(#006494, #247Ba0);
+ }
 
-.bg-2{
-  background-image: linear-gradient( #247Ba0, #006494) !important;
-}
+ .bg-2 {
+   background-image: linear-gradient(#247Ba0, #006494) !important;
+ }
 
-.bg-3{
-  background-color:#006494;
-}
+ .bg-3 {
+   background-color: #006494;
+ }
 
-/* @keyframes flutuar {
+ /* @keyframes flutuar {
   0% {
     transform: translate(0, 0);
   }
@@ -44,36 +44,36 @@
 }  */
 
  .flutuar {
-  width: 680px !important;
-  
+   width: 680px !important;
 
 
-} 
 
-.preco-ver{
-  
-    font-size: 150% !important;
-    font-weight: 900 !important;
-    color: #d4405b !important;
+ }
 
-}
+ .preco-ver {
 
-.txt-black{
-  color:#3b3e3f;
+   font-size: 150% !important;
+   font-weight: 900 !important;
+   color: #d4405b !important;
 
-}
+ }
 
-.whatsapp-button {
-  
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  z-index: 9999;
-  font-size: 24px;
-  color: #fff;
-  padding: 10px;
-  border-radius: 50%;
-}
+ .txt-black {
+   color: #3b3e3f;
+
+ }
+
+ .whatsapp-button {
+
+   position: fixed;
+   bottom: 20px;
+   right: 20px;
+   z-index: 9999;
+   font-size: 24px;
+   color: #fff;
+   padding: 10px;
+   border-radius: 50%;
+ }
 
 
 
@@ -106,14 +106,14 @@
 
 
 
- .fs{
-  font-size: 16px;
+ .fs {
+   font-size: 16px;
  }
 
- .btn-central{
-  display: flex;
-  justify-content: center;
-  font-size: 32px;
+ .btn-central {
+   display: flex;
+   justify-content: center;
+   font-size: 32px;
  }
 
  .u-section-1 .u-btn-2 {
@@ -208,10 +208,12 @@
    .u-section-1 .u-text-1 {
      font-size: 1.875rem;
      width: auto;
+     text-align: start;
    }
 
    .u-section-1 .u-text-2 {
      width: auto;
+     text-align: start;
    }
 
    .u-section-1 .u-btn-2 {
@@ -386,25 +388,25 @@
  }
 
  .u-section-3 {
-  background: #f2f2f2;
-  height: 100%;
+   background: #f2f2f2;
+   height: 100%;
 
-}
+ }
 
-.u-section-3-novo {
-  height: 100%;
+ .u-section-3-novo {
+   height: 100%;
 
 
-}
+ }
 
- 
+
 
  .u-section-3 .u-layout-wrap-1 {
    margin-top: 60px;
    margin-bottom: 60px;
  }
 
-  .u-layout-cell-1 {
+ .u-layout-cell-1 {
    min-height: 574px;
  }
 
@@ -419,7 +421,7 @@
 
  .u-section-3 .u-text-2 {
    margin: 17px auto 0 0;
-   
+
 
  }
 
@@ -540,10 +542,12 @@
  @media (max-width: 575px) {
    .u-section-3 .u-sheet-1 {
      min-height: 414px;
+     text-align: start;
    }
 
    .u-section-3 .u-text-1 {
      font-size: 1.5rem;
+     text-align: start;
    }
 
    .u-section-3 .u-text-2 {
@@ -569,12 +573,12 @@
      height: 250px;
    }
 
-   
+
  }
 
  .u-section-4 {
    background-image: none;
-   
+
  }
 
  .u-section-4 .u-sheet-1 {
@@ -586,20 +590,20 @@
    margin-bottom: 60px;
  }
 
- 
+
 
  .u-section-4 .u-container-layout-1 {
    padding: 0;
  }
 
  .u-section-4 .u-image-1 {
-   
+
    width: 550px;
-   
+
 
  }
 
- 
+
 
  /* .u-section-4 .u-container-layout-2 {
    padding: 30px;
@@ -613,7 +617,7 @@
 
  .u-section-4 .u-text-2 {
    margin: 20px 0 0;
-   
+
  }
 
  .u-section-4 .u-btn-1 {
@@ -711,7 +715,7 @@
    }
 
    .u-section-4 .u-image-1 {
-     
+     margin-bottom: -104px;
      width: 340px;
    }
 
