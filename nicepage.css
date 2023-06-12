@@ -34299,7 +34299,8 @@ section.u-palette-2-base:before,
 .u-container-layout.u-container-layout.u-palette-2-base:before,
 .u-table-alt-palette-2-base tr:nth-child(even) {
   color: #ffffff;
-  background-color: #006494;
+  background-color: #006494
+  ;
 }
 
 .u-input.u-palette-2-base,
@@ -48754,18 +48755,16 @@ a:hover {
 
 .u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header :not(.u-nav-item)>.u-btn:hover,
 .u-gradient>.u-container-layout>.u-btn:hover,
-.u-image:not(.u-shading)>.u-container-layout>.u-btn:hover,
-.u-btn:hover {
+.u-image:not(.u-shading)>.u-container-layout>.u-btn:hover {
   background-color: #ee03d9;
-  color: #e6e6e6;
+  color: #ffffff;
 }
 
 .u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header :not(.u-nav-item)>.u-btn:focus,
 .u-gradient>.u-container-layout>.u-btn:focus,
-.u-image:not(.u-shading)>.u-container-layout>.u-btn:focus,
-.u-btn:focus {
+.u-image:not(.u-shading)>.u-container-layout>.u-btn:focus {
   background-color: #ee03d9;
-  color: #e6e6e6;
+  color: #ffffff;
 }
 
 .u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header :not(.u-nav-item)>.u-btn:active,
@@ -48773,7 +48772,7 @@ a:hover {
 .u-image:not(.u-shading)>.u-container-layout>.u-btn:active,
 .u-btn:active {
   background-color: #ee03d9;
-  color: #e6e6e6;
+  color: #ffffff;
 }
 
 .u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header :not(.u-nav-item)>blockquote,
