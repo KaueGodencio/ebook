@@ -50,6 +50,21 @@
 
  }
 
+
+
+ .btn-comprar {
+   color: #f2f2f2 !important;
+
+
+ }
+
+ .btn-whatsapp {
+   color: #f2f2f2 !important;
+
+
+ }
+
+
  .preco-ver {
 
    font-size: 150% !important;
@@ -60,6 +75,11 @@
 
  .txt-black {
    color: #3b3e3f;
+
+ }
+
+ .img-garantia {
+   max-width: 256px;
 
  }
 
@@ -198,6 +218,12 @@
    .u-section-1 .u-image-1 {
      height: 375px;
    }
+
+   .img-garantia {
+     max-width: 60vw;
+
+   }
+
  }
 
  @media (max-width: 575px) {
